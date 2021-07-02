@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Cherry Pink",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-037-b73f9b34467ba541de861f5b4c0c6316.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(255, 45, 159, 0.16)",
+      "toolbar_text": "rgb(130, 36, 130)",
+      "frame": "rgb(255, 167, 236)",
+      "tab_background_text": "rgb(190, 80, 190)",
+      "toolbar_field": "rgba(255, 167, 236, 0.77)",
+      "toolbar_field_text": "rgb(255, 0, 201)",
+      "tab_line": "rgb(241, 102, 237)",
+      "popup": "rgba(247, 130, 221, 0.69)",
+      "popup_text": "rgb(130, 36, 130)",
+      "ntp_background": "rgb(255, 167, 236)",
+      "ntp_text": "rgb(130, 36, 130)",
+      "sidebar_text": "rgb(130, 36, 130)",
+      "sidebar": "rgb(255, 159, 255)",
+      "tab_loading": "rgb(241, 102, 237)"
+    }
+  }
+}
