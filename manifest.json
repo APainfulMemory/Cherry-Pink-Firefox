@@ -18,17 +18,17 @@
     },
     "colors": {
       "toolbar": "rgba(255, 45, 159, 0.16)",
-      "toolbar_text": "rgb(130, 36, 130)",
+      "toolbar_text": "rgb(0, 0, 0)",
       "frame": "rgb(255, 167, 236)",
-      "tab_background_text": "rgb(190, 80, 190)",
+      "tab_background_text": "rgb(0, 0, 0)",
       "toolbar_field": "rgba(255, 167, 236, 0.77)",
-      "toolbar_field_text": "rgb(255, 0, 201)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
       "tab_line": "rgb(241, 102, 237)",
       "popup": "rgba(247, 130, 221, 0.69)",
-      "popup_text": "rgb(130, 36, 130)",
+      "popup_text": "rgb(0, 0, 0)",
       "ntp_background": "rgb(255, 167, 236)",
-      "ntp_text": "rgb(130, 36, 130)",
-      "sidebar_text": "rgb(130, 36, 130)",
+      "ntp_text": "rgb(0, 0, 0)",
+      "sidebar_text": "rgb(0, 0, 0)",
       "sidebar": "rgb(255, 159, 255)",
       "tab_loading": "rgb(241, 102, 237)"
     }
